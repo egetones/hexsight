@@ -10,7 +10,7 @@
   <strong>A CLI-based Hex Viewer for binary file analysis.</strong>
 </p>
 
-[Report Bug](https://github.com/your-username/hexsight/issues) · [Request Feature](https://github.com/your-username/hexsight/issues)
+[Report Bug](https://github.com/egetones/hexsight/issues) · [Request Feature](https://github.com/egetones/hexsight/issues)
 
 </div>
 
