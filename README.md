@@ -30,7 +30,7 @@ Understanding the raw bytes is crucial for malware analysis, reverse engineering
 
 ---
 
-## 🛠️ Installation & Usage
+## Installation & Usage
 
 1. **Compile:**
    ```bash
